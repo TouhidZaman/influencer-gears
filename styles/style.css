@@ -139,3 +139,37 @@ body {
     font-size: 14px;
     line-height: 1.5em;
 }
+
+/* FOOTER AREA  */
+footer {
+    background: #0A0826;
+    margin-top: 36px;
+}
+.footer-content {
+    text-align: center;
+    padding: 50px 0;
+}
+.footer-content h3{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 0.9px;
+    line-height: 36px
+}
+.footer-content p{
+    margin: 10px 0;
+    color: #D9DBE1;
+    font-size: 14px;
+    line-height: 24px;
+}
+.footer-content .social-icons i{
+    color: #D9DBE1;
+    font-size: 14px;
+}
+.footer-content .social-icons .circle-bg{
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 5px 10px;
+    margin: 7px 8px 0px;
+    border-radius: 50%;
+}
